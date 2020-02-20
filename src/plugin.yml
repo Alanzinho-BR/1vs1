@@ -1,0 +1,7 @@
+name: 1v1
+main: br.alan.Main
+version: 1.0
+commands:
+  1v1:
+  duel:
+  accept:
